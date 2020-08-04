@@ -4,7 +4,7 @@
 **itsAnju/itsAnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-  <img src="" alt="Avatar" width="264" height="280" />
+  <img src="https://github.com/itsAnju/itsAnju/blob/master/Capture.PNG" alt="Avatar" width="264" height="280" />
   <p>Looks Kind Of Me 😁😁.</p>
 </p>
 
