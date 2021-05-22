@@ -16,6 +16,6 @@ Some Points About Me:-
 - 📫 How to reach me: [![Mail 📩📧](https://github.com/itsAnju/itsAnju/blob/master/gmail.png)](mailto:kanjanikingkr@gmail.com?subject=I%20wanna%20know%20about%20https://github.com/itsAnju/itsAnju/blob.)...
 - ⚡ Fun fact: The English word with the most definitions is "set."...
 
-[![Anju's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnju)](https://github.com/anuraghazra/github-readme-stats)
+[![Anju's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnju&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
